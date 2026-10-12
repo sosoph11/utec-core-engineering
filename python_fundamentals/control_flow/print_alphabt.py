@@ -1,2 +1,4 @@
 #!/usr/bin/env python3
-print("abcdfghijklmnoprstuvwxyz", end="")
+for c in "abcdfghijklmnoprstuvwxyz":
+    print("{}".format(c), end="")
+print()
