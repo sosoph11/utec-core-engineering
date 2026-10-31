@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Módulo que define una clase Square básica."""
+"""Módulo que define una clase Square."""
 
 
 class Square:
-    """Clase vacía que representa un cuadrado."""
+    """Representa un cuadrado."""
 
     pass
